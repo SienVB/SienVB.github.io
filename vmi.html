@@ -49,6 +49,11 @@
 
 </head>
 <body>
+<button onclick="function topFunction() {
+	document.body.scrollTop = 0; // For Safari
+	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+	}
+	topFunction()" id="myBtn" title="Go to top">Top</button>
 
 <nav id="colorlib-main-nav" class="navbar">
     <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle active"><i></i></a>
@@ -132,6 +137,11 @@
 
             <div class="row">
                 <div class="col-md-12 text-center">
+                    <p class="colorlib-social-icons">
+                        <a target="_blank" href="https://twitter.com/sienvb"><i class="icon-twitter3"></i></a>
+                        <a target="_blank" href="https://github.com/SienVB"><i class="icon-github"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/sien-van-broekhoven-247024163/"><i class="icon-linkedin4"></i></a>
+                    </p>
                     <p>
                         &copy; Copyright <script>document.write(new Date().getFullYear());</script> Sien Van Broekhoven
                     </p>
