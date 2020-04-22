@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6460e18d-a954-4ccd-848d-da5158778ce0" name="Default Changelist" comment="" />
+    <list default="true" id="6460e18d-a954-4ccd-848d-da5158778ce0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vmi.html" beforeDir="false" afterPath="$PROJECT_DIR$/vmi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webhosting.html" beforeDir="false" afterPath="$PROJECT_DIR$/webhosting.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1algHVbveF83B33VkPXPggYPW1r" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -61,6 +70,7 @@
       <workItem from="1587560129486" duration="1239000" />
       <workItem from="1587561408672" duration="6047000" />
       <workItem from="1587568152028" duration="43000" />
+      <workItem from="1587569736091" duration="75000" />
     </task>
     <servers />
   </component>
