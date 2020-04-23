@@ -2,9 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6460e18d-a954-4ccd-848d-da5158778ce0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CV_Sien.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hosthub.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/initial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/initial2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/eatsleep.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/eatsleep.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_bg_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/laptop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/laptop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/me.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/me2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/resize.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/silo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/silo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sys.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sys.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/work-7.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/people_counter.html" beforeDir="false" afterPath="$PROJECT_DIR$/people_counter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vmi.html" beforeDir="false" afterPath="$PROJECT_DIR$/vmi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webhosting.html" beforeDir="false" afterPath="$PROJECT_DIR$/webhosting.html" afterDir="false" />
     </list>
@@ -18,6 +60,20 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -29,12 +85,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1algHVbveF83B33VkPXPggYPW1r" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -72,12 +132,18 @@
       <workItem from="1587561408672" duration="6047000" />
       <workItem from="1587568152028" duration="43000" />
       <workItem from="1587569736091" duration="128000" />
-      <workItem from="1587569926883" duration="227000" />
+      <workItem from="1587569926883" duration="462000" />
+      <workItem from="1587570617066" duration="536000" />
+      <workItem from="1587577108795" duration="603000" />
+      <workItem from="1587641390223" duration="9060000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="521" y="198" key="#File_Watchers" timestamp="1587384943589">
