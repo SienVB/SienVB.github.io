@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6460e18d-a954-4ccd-848d-da5158778ce0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webhosting.html" beforeDir="false" afterPath="$PROJECT_DIR$/webhosting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -26,28 +31,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="328" column="65" selection-start-line="328" selection-start-column="65" selection-end-line="328" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webhosting.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -58,42 +41,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/webhosting.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1840" />
-    <option name="height" value="1100" />
-  </component>
   <component name="ProjectId" id="1algHVbveF83B33VkPXPggYPW1r" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SienPortfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SienVB.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -116,21 +66,12 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Portfolio\SienVB.github.io" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\noah-master" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -156,79 +97,17 @@
       <workItem from="1587577108795" duration="603000" />
       <workItem from="1587641390223" duration="9060000" />
       <workItem from="1603538007170" duration="1848000" />
+      <workItem from="1606382647920" duration="4324000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1848000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="521" y="198" key="#File_Watchers" timestamp="1587384943589">
+    <state x="560" y="85" width="737" height="909" key="find.popup" timestamp="1606384492136">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="521" y="198" key="#File_Watchers/0.0.1858.1080/1920.0.1680.1050@0.0.1858.1080" timestamp="1587384943589" />
-    <state x="628" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587563731136">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="628" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080/1920.0.1680.1050@0.0.1858.1080" timestamp="1587563731136" />
-    <state x="564" y="318" key="EditFileWatcherDialog" timestamp="1587384060107">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="564" y="318" key="EditFileWatcherDialog/0.0.1858.1080/1920.0.1680.1050@0.0.1858.1080" timestamp="1587384060107" />
-    <state x="430" y="182" key="SettingsEditor" timestamp="1587384057355">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="430" y="182" key="SettingsEditor/0.0.1858.1080/1920.0.1680.1050@0.0.1858.1080" timestamp="1587384057355" />
-    <state x="624" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1587315517422">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="624" y="363" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/1920.0.1680.1050@0.0.1858.1080" timestamp="1587315517422" />
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1587564383616">
-      <screen x="0" y="0" width="1858" height="1080" />
-    </state>
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/1920.0.1680.1050@0.0.1858.1080" timestamp="1587564383616" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="328" column="65" selection-start-line="328" selection-start-column="65" selection-end-line="328" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webhosting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <state x="560" y="85" width="737" height="909" key="find.popup/0.0.1858.1080/1920.0.1680.1050@0.0.1858.1080" timestamp="1606384492136" />
   </component>
 </project>
