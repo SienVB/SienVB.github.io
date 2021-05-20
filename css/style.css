@@ -21,6 +21,28 @@ body {
     color: gray;
 }
 
+.rechts {
+    position: absolute;
+    left: 70%;
+}
+
+.skillbar-container {
+    position:relative;
+    display:block;
+    margin-bottom: 15px;   
+    width: 100%;
+    background-color: #fafafa;
+    /* background-color: rgba(255,255,255,.1); */
+    height:35px;
+    height:5px;
+  }
+    
+  .skills {
+    height:35px;
+    height:5px;
+    width:0px;
+  }
+
 body.menu-show {
     overflow: visible;
 
