@@ -122,7 +122,7 @@
                         <div class="col-md-8 col-md-offset-2">
                             <div class="desc">
                                 <h2>Upsmart</h2>
-                                <p>In this project, a few students and I designed a solution that improves the efficiency in the municipal workers jobs, and improves the communication between civillians and city government for the city of Herentals.</p>
+                                <p>In this project, a few students and I designed a solution that improves the efficiency in the municipal workers jobs, and improves the communication between civilians and city government for the city of Herentals.</p>
                                 <p>
                                     There are 2 parts to this project, firstly we have a "smart trashcan" solution, which measures the amount of trash in a trashcan, with on top of that a few options such as fire detection, a push button for sending a littering alert; and then sends
                                     the data to a central database. Our website will then retrieve the data from this database and present it in useful graphs so that the municipal workers can do their job more efficiently. They won't have to manually check
@@ -139,7 +139,7 @@
                                 <br />
                                 <p>
                                     In this project I was responsible for configuring the hosting infrastructure, the communication between the different technologies, and the overall security of our infrastructure. 
-                                    I configured this by creating an IOT central application which receives the data from TheThingsNetwork (My colleague made sure the data from the sensor gets sent to TheThingsNetwork). 
+                                    I configured this by creating an Azure IOT central application which receives the data from TheThingsNetwork (My colleague made sure the data from the sensor gets sent to TheThingsNetwork). 
                                     Then this data goes through an Azure gateway Event Hub, on which queries are configured to send the useful data to an Azure SQL database. Another query is configured to detect when the value of "fire" is 1, meaning fire is detected in a trashcan. 
                                     If this is the case, then an SMS message gets sent to a specified number, allowing the receiving people to investigate the event. 
                                     The security in the environment is configured to use Azure Defender for SQL and Azure Defender for Key Vault to protect the data and secrets.
@@ -152,6 +152,7 @@
                                     We also have a website for our team on which we present our progress and information to the city of Herentals, to keep them up to date of everything.
                                     You can take a look at this website <a target="_blank" href="http://upsmart.seppealaerts.be/">here</a>.
                                 </p>
+                                <p>I had not worked with Microsoft Azure before this project, so it definitely taught me a lot about the technical possibilities that can be configured with this cloud solution.</p>
                                 <p class="read"><a href="index.html#colorlib-work">Go back to projects</a></p>
                             </div>
                         </div>
